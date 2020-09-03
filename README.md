@@ -13,3 +13,5 @@ Firmware change to make the ath10k  wifi on the Microsoft Surface Go (and other 
 - $ sudo cp -r . /lib64/firmware
 
 ^ the above is the "I don't know which folder exactly to put it in" method. You only need to do one method, not both.
+
+I WOULD RECOMMEND making a backup of your original ath10k folder first, for the usual reasons - problems can always get worse!
