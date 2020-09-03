@@ -3,7 +3,7 @@ Firmware change to make the ath10k  wifi on the Microsoft Surface Go (and other 
 		- THIS -
 
 - If you don't know which ath10k folder to place the updated bin file:
-	1. REPLACE the 'ath10k' folder in /lib64/firmware/'ath10k' with the one in this repository.
+	1. REPLACE the 'ath10k' folder in /lib64/firmware/'ath10k' with the one from this repository.
 
 			- OR -
 
