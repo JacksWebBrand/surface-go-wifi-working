@@ -8,11 +8,11 @@ Firmware change to make the ath10k  wifi on the Microsoft Surface Go (and other 
 
 (note you will need root access or sudo to make the above changes)
 
-**- $ `git clone https://github.com/JacksWebBrand/surface-go-wifi-working-linux.git`**
-*- "transfer the 'surface-go-wifi-working' folder to your Surface Go (or other computer) via usb, or some other way (or just clone direct with a usb-ethernet*
-**- $ `cd surface-go-wifi-working`**
-**- $ `sudo rm -rf /lib64/firmware/ath10k`**
-**- $ `sudo cp -r . /lib64/firmware`**
+	- ** $ `git clone https://github.com/JacksWebBrand/surface-go-wifi-working-linux.git`**
+	- * "transfer the 'surface-go-wifi-working' folder to your Surface Go (or other computer) via usb, or some other way (or just clone direct with a usb-ethernet*
+	- ** $ `cd surface-go-wifi-working`**
+	- ** $ `sudo rm -rf /lib64/firmware/ath10k`**
+	- ** $ `sudo cp -r . /lib64/firmware`**
 
 ^ the above is the "I don't know which folder exactly to put it in" method. You only need to do one method, not both.
 
