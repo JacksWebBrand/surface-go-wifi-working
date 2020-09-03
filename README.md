@@ -8,8 +8,8 @@ Firmware change to make the ath10k  wifi on the Microsoft Surface Go (and other 
 
 (note you will need root access or sudo to make the above changes)
 
-$ cd surface-go-wifi-working
-$ sudo rm -rf /lib64/firmware/ath10k
-$ sudo cp . /lib64/firmware
+- $ cd surface-go-wifi-working
+- $ sudo rm -rf /lib64/firmware/ath10k
+- $ sudo cp . /lib64/firmware
 
 ^ the above is the "I don't know which folder exactly to put it in" method. You only need to do one method, not both.
