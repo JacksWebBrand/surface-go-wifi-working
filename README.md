@@ -1,6 +1,6 @@
 Firmware change to make the ath10k  wifi on the Microsoft Surface Go (and other computers using the same wireless card) work in Linux. This is not a brand new fix, but it is the easiest way to go about it on the internet (that I can see). 
 
-			- THIS -
+		- THIS -
 
 - If you don't know which ath10k folder to place the updated bin file:
 	1. REPLACE the 'ath10k' folder in /lib64/firmware/'ath10k' with the one in this repository.
