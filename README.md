@@ -10,7 +10,7 @@ Firmware change to make the ath10k  wifi on the Microsoft Surface Go (and other 
 - If you know which folder is the correct one for your exact wireless card:
 	1. REPLACE the 'board.bin' file in the appropriate folder with the one from this repository.
 
-(note you will need root access or sudo to make these changes)
+**Note** your firmware may be in /lib/ rather than /lib64/.
 
 		- DONE -
 
